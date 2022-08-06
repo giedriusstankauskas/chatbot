@@ -1,5 +1,6 @@
 flask
 requests
-nltk
-torch
+nltk~=3.7
+torch~=1.12.1
 torchvision
+numpy~=1.23.1
