@@ -16,7 +16,7 @@ $ . venv/bin/activate
 ```
 Install dependencies
 ```
-$ (venv) pip install requirements.txt
+$ (venv) pip install -r requirements.txt
 ```
 Modify `intents.json` with different questions and responses for your Chatbot
 
